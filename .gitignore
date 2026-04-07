@@ -1,7 +1,60 @@
-/.DS_Store
-/.gradle
-/.kotlin
-/.vscode
-/build
-/kolo-154ae-firebase-adminsdk-fbsvc-77da6a5872.json
-/upload_to_firestore.py
+# --- Android / Gradle ---
+.gradle/
+build/
+app/build/
+*.apk
+*.aar
+*.ap_
+*.aab
+*.dex
+*.class
+bin/
+gen/
+out/
+local.properties
+.externalNativeBuild
+.cxx/
+captures/
+.navigation/
+
+# --- IntelliJ / Android Studio ---
+*.iml
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches/
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/usage.statistics.xml
+.idea/httpRequests/
+
+# --- VS Code ---
+.vscode/
+
+# --- OS-specific ---
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+
+# --- Project Specific / Sensitive ---
+# Firebase Admin SDK and secret scripts
+kolo-154ae-firebase-adminsdk-fbsvc-77da6a5872.json
+upload_to_firestore.py
+
+# Google Services (Uncomment if you want to keep it private)
+# google-services.json
+
+# --- Log Files ---
+*.log

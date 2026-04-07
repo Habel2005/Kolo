@@ -1,7 +1,0 @@
--keep,allowobfuscation,allowshrinking class com.kolo.prayer.ui.reader.ReaderViewModel
--keep,allowobfuscation,allowshrinking class com.kolo.prayer.ui.reader.ReaderViewModel
--keep,allowobfuscation,allowshrinking class com.kolo.prayer.ui.settings.SettingsViewModel
--keep,allowobfuscation,allowshrinking class com.kolo.prayer.ui.settings.SettingsViewModel
--keep,allowobfuscation,allowshrinking class com.kolo.prayer.ui.home.HomeViewModel
--keep,allowobfuscation,allowshrinking class com.kolo.prayer.ui.home.HomeViewModel
--keep,allowobfuscation,allowshrinking class com.kolo.prayer.ui.bookdetail.BookDetailViewModel
