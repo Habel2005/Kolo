@@ -1,0 +1,7 @@
+/.DS_Store
+/.gradle
+/.kotlin
+/.vscode
+/build
+/kolo-154ae-firebase-adminsdk-fbsvc-77da6a5872.json
+/upload_to_firestore.py

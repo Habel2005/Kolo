@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.kolo.prayer.ui.reader.ReaderViewModel

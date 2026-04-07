@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FF3700B3</color>
+    <string name="app_name">Kolo</string>
+    <string name="app_subtitle">Jacobite Syrian Prayer</string>
+    <string name="app_title_ml">ദൈവ ഭക്തി പ്രാർത്ഥന</string>
+    <string name="gcm_defaultSenderId" translatable="false">39637825486</string>
+    <string name="google_api_key" translatable="false">AIzaSyDtiBNMI5TUzaHE7qzAZ9lOuMDVO6RWjZg</string>
+    <string name="google_app_id" translatable="false">1:39637825486:android:e48ec0ec563e5b5dbb9d9f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDtiBNMI5TUzaHE7qzAZ9lOuMDVO6RWjZg</string>
+    <string name="google_storage_bucket" translatable="false">kolo-154ae.firebasestorage.app</string>
+    <string name="project_id" translatable="false">kolo-154ae</string>
+    <style name="Theme.Kolo" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

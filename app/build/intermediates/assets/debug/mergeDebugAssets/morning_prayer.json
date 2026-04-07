@@ -1,0 +1,260 @@
+{
+  "id": "morning_prayer",
+  "title_ml": "രാവിലെ പ്രാർത്ഥന",
+  "title_en": "Morning Prayer Office",
+  "description_ml": "ദൈനന്ദിന രാവിലെ ജപം — സഭയുടെ ശോയ്മ്തോ ക്രമം",
+  "sections": [
+    {
+      "id": "morning_prayer_s1",
+      "sort_order": 1,
+      "title_ml": "ആമുഖ പ്രാർത്ഥന",
+      "title_en": "Opening Prayer",
+      "category_label": "Introduction",
+      "verses": [
+        {
+          "verse_num": 1,
+          "text_ml": "പിതാവിന്റെയും പുത്രന്റെയും പരിശുദ്ധാത്മാവിന്റെയും നാമത്തിൽ, ഏകസത്യ ദൈവം. ആമ്മേൻ.",
+          "text_en": "In the name of the Father, and of the Son, and of the Holy Spirit, one true God. Amen.",
+          "is_response": false,
+          "speaker": "priest"
+        },
+        {
+          "verse_num": 2,
+          "text_ml": "കർത്താവേ, ഞങ്ങൾക്ക് കൃപ ചെയ്യേണമേ. കർത്താവേ, ഞങ്ങൾക്ക് കൃപ ചെയ്യേണമേ. കർത്താവേ, ഞങ്ങൾക്ക് കൃപ ചെയ്യേണമേ.",
+          "text_en": "Lord, have mercy upon us. Lord, have mercy upon us. Lord, have mercy upon us.",
+          "is_response": true,
+          "speaker": "congregation"
+        },
+        {
+          "verse_num": 3,
+          "text_ml": "സ്വർഗ്ഗസ്ഥനായ ഞങ്ങളുടെ പിതാവേ, അങ്ങയുടെ നാമം പൂജിതമാകണമേ. അങ്ങയുടെ രാജ്യം വരേണമേ. അങ്ങയുടെ ഇഷ്ടം സ്വർഗ്ഗത്തിലെപ്പോലെ ഭൂമിയിലും ആകേണമേ.",
+          "text_en": "Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth as it is in heaven.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 4,
+          "text_ml": "ഞങ്ങളുടെ ദൈനന്ദിന ആഹാരം ഇന്ന് ഞങ്ങൾക്ക് നൽകേണമേ. ഞങ്ങളുടെ കടക്കാരോട് ഞങ്ങൾ ക്ഷമിക്കുന്നതുപോലെ ഞങ്ങളുടെ കടങ്ങളും ഞങ്ങളോട് ക്ഷമിക്കേണമേ.",
+          "text_en": "Give us this day our daily bread, and forgive us our debts, as we forgive our debtors.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 5,
+          "text_ml": "ഞങ്ങളെ പ്രലോഭനത്തിൽ ഉൾപ്പെടുത്തരുതേ. ദുഷ്ടനിൽ നിന്ന് ഞങ്ങളെ രക്ഷിക്കേണമേ. രാജ്യവും ശക്തിയും മഹത്ത്വവും എന്നേക്കും അങ്ങേക്കുള്ളതാകുന്നു. ആമ്മേൻ.",
+          "text_en": "And lead us not into temptation, but deliver us from evil. For thine is the kingdom and the power and the glory, forever. Amen.",
+          "is_response": false,
+          "speaker": "all"
+        }
+      ]
+    },
+    {
+      "id": "morning_prayer_s2",
+      "sort_order": 2,
+      "title_ml": "ത്രിസ്വദ്ദൂസ്",
+      "title_en": "Trisagion",
+      "category_label": "Introduction",
+      "verses": [
+        {
+          "verse_num": 1,
+          "text_ml": "പരിശുദ്ധനായ ദൈവമേ, പരിശുദ്ധനായ ബലവാനേ, പരിശുദ്ധനായ മരണരഹിതനേ, ഞങ്ങൾക്ക് കൃപ ചെയ്യേണമേ.",
+          "text_en": "Holy God, Holy Mighty, Holy Immortal, have mercy on us.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 2,
+          "text_ml": "പരിശുദ്ധനായ ദൈവമേ, പരിശുദ്ധനായ ബലവാനേ, പരിശുദ്ധനായ മരണരഹിതനേ, ഞങ്ങൾക്ക് കൃപ ചെയ്യേണമേ.",
+          "text_en": "Holy God, Holy Mighty, Holy Immortal, have mercy on us.",
+          "is_response": true,
+          "speaker": "congregation"
+        },
+        {
+          "verse_num": 3,
+          "text_ml": "പരിശുദ്ധനായ ദൈവമേ, പരിശുദ്ധനായ ബലവാനേ, പരിശുദ്ധനായ മരണരഹിതനേ, ഞങ്ങൾക്ക് കൃപ ചെയ്യേണമേ.",
+          "text_en": "Holy God, Holy Mighty, Holy Immortal, have mercy on us.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 4,
+          "text_ml": "കുരിശിൽ തറയ്ക്കപ്പെട്ട മശിഹായേ, ഞങ്ങൾക്ക് കൃപ ചെയ്യേണമേ. കുരിശിൽ തറയ്ക്കപ്പെട്ട മശിഹായേ, ഞങ്ങൾക്ക് കൃപ ചെയ്യേണമേ.",
+          "text_en": "O Christ, who was crucified for us, have mercy on us. O Christ, who was crucified for us, have mercy on us.",
+          "is_response": true,
+          "speaker": "congregation"
+        }
+      ]
+    },
+    {
+      "id": "morning_prayer_s3",
+      "sort_order": 3,
+      "title_ml": "സ്തോത്ര കീർത്തനങ്ങൾ",
+      "title_en": "Psalms of Praise",
+      "category_label": "Core Prayers",
+      "verses": [
+        {
+          "verse_num": 1,
+          "text_ml": "കർത്താവേ, ഞങ്ങൾ അങ്ങേക്ക് സ്തുതി ഉദ്ഘോഷിക്കുന്നു. ഞങ്ങളുടെ ഹൃദയത്തിൽ നിന്നും ഉറ്റുചരിയുന്ന പ്രാർത്ഥനകൾ സ്വീകരിക്കേണമേ.",
+          "text_en": "O Lord, we proclaim praise unto You. Accept the prayers that pour from our hearts.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 2,
+          "text_ml": "അങ്ങ് ഞങ്ങളെ അനുഗ്രഹിക്കേണമേ, ഞങ്ങൾക്ക് കൃപ നൽകേണമേ. അങ്ങേ ദിവ്യ മഹത്ത്വം ഞങ്ങൾ കാണുമാറാകട്ടെ.",
+          "text_en": "Bless us and grant us grace. May we behold Your divine glory.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 3,
+          "text_ml": "ഞങ്ങളുടെ പാപങ്ങൾ ക്ഷമിക്കേണമേ. ഞങ്ങളുടെ ഹൃദയങ്ങൾ ശുദ്ധമാക്കേണമേ. അങ്ങേ ഇഷ്ടം ഞങ്ങൾ ചെയ്യുമാറാകട്ടെ.",
+          "text_en": "Forgive our sins. Purify our hearts. May we do Your will.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 4,
+          "text_ml": "ദൈവമേ, ഞങ്ങളുടെ ദൈനന്ദിന ജീവിതത്തിൽ അങ്ങേ സാന്നിദ്ധ്യം ഞങ്ങൾ അനുഭവിക്കട്ടെ. ഞങ്ങൾ അങ്ങേ കൃപയാൽ ജീവിക്കട്ടെ.",
+          "text_en": "O God, may we experience Your presence in our daily lives. May we live by Your grace.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 5,
+          "text_ml": "ഹാലേലൂയ്യ, ഹാലേലൂയ്യ, ഹാലേലൂയ്യ. കർത്താവിന്റെ നാമം വാഴ്ത്തപ്പെടട്ടെ. ഇന്ന് മുതൽ എന്നേക്കും.",
+          "text_en": "Hallelujah, Hallelujah, Hallelujah. Blessed be the name of the Lord, from now and forever.",
+          "is_response": true,
+          "speaker": "congregation"
+        }
+      ]
+    },
+    {
+      "id": "morning_prayer_s4",
+      "sort_order": 4,
+      "title_ml": "മദ്ധ്യാഹ്ന ജപം",
+      "title_en": "Midmorning Prayer",
+      "category_label": "Core Prayers",
+      "verses": [
+        {
+          "verse_num": 1,
+          "text_ml": "ദൈവമേ, അങ്ങേ കൃപയാൽ ഞങ്ങളെ ഈ ദിവസം കാത്തുരക്ഷിക്കേണമേ. ഞങ്ങളുടെ ജോലികളിൽ ഞങ്ങളെ അനുഗ്രഹിക്കേണമേ.",
+          "text_en": "O God, by Your grace protect us this day. Bless us in our labors.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 2,
+          "text_ml": "ഞങ്ങളുടെ വഴികളെ നേരിയ പാതയിലൂടെ നയിക്കേണമേ. ഞങ്ങളുടെ ചിന്തകളിൽ അങ്ങേ വെളിച്ചം പ്രകാശിക്കട്ടെ.",
+          "text_en": "Guide our steps along the straight path. Let Your light shine in our thoughts.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 3,
+          "text_ml": "മശിഹായേ, ഞങ്ങളുടെ ദൈവമേ, അങ്ങേ തിരുസ്വരൂപത്തിൽ ഞങ്ങൾ സൃഷ്ടിക്കപ്പെട്ടിരിക്കുന്നു. ഞങ്ങൾ അങ്ങേ മക്കളാണ്.",
+          "text_en": "O Christ our God, we are created in Your image. We are Your children.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 4,
+          "text_ml": "ഹാലേലൂയ്യ, കർത്താവിന് സ്തുതി. ഞങ്ങളുടെ ആരാധന അങ്ങ് സ്വീകരിക്കേണമേ. ആമ്മേൻ.",
+          "text_en": "Hallelujah, praise to the Lord. Accept our worship. Amen.",
+          "is_response": true,
+          "speaker": "congregation"
+        }
+      ]
+    },
+    {
+      "id": "morning_prayer_s5",
+      "sort_order": 5,
+      "title_ml": "ക്ഷമാപ്രാർത്ഥന",
+      "title_en": "Prayer of Repentance",
+      "category_label": "Core Prayers",
+      "verses": [
+        {
+          "verse_num": 1,
+          "text_ml": "കർത്താവേ, ഞങ്ങൾ പാപികളാണ്. ഞങ്ങളുടെ അകൃത്യങ്ങളെ ക്ഷമിക്കേണമേ. അങ്ങേ കാരുണ്യത്തിന്റെ കവാടം ഞങ്ങൾക്കായി തുറക്കേണമേ.",
+          "text_en": "Lord, we are sinners. Forgive our transgressions. Open the gates of Your mercy for us.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 2,
+          "text_ml": "ഞങ്ങളുടെ ബലഹീനതകളിൽ ഞങ്ങൾക്ക് ശക്തി പകരേണമേ. ഞങ്ങളുടെ വീഴ്ചകളിൽ ഞങ്ങളെ താങ്ങേണമേ.",
+          "text_en": "Grant us strength in our weaknesses. Uphold us in our failings.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 3,
+          "text_ml": "അങ്ങേ കുരിശിന്റെ ശക്തിയാൽ ഞങ്ങളെ കാത്തുരക്ഷിക്കേണമേ. അങ്ങേ പുനരുത്ഥാനത്തിന്റെ പ്രത്യാശ ഞങ്ങൾക്ക് നൽകേണമേ.",
+          "text_en": "Protect us by the power of Your cross. Grant us the hope of Your resurrection.",
+          "is_response": false,
+          "speaker": "all"
+        }
+      ]
+    },
+    {
+      "id": "morning_prayer_s6",
+      "sort_order": 6,
+      "title_ml": "ദൈവ സ്തുതി",
+      "title_en": "Doxology",
+      "category_label": "Closing",
+      "verses": [
+        {
+          "verse_num": 1,
+          "text_ml": "പിതാവിനും പുത്രനും പരിശുദ്ധാത്മാവിനും സ്തുതി. ആദിയിലെപ്പോലെ ഇന്നും എന്നും എന്നേക്കും. ആമ്മേൻ.",
+          "text_en": "Glory be to the Father, and to the Son, and to the Holy Spirit, as it was in the beginning, is now, and ever shall be. Amen.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 2,
+          "text_ml": "ദൈവത്തിന്റെ ഏകജാതനായ പുത്രനേ, ഞങ്ങൾ അങ്ങയെ ആരാധിക്കുന്നു. അങ്ങേ മഹത്ത്വം ലോകമെങ്ങും നിറയട്ടെ.",
+          "text_en": "O only-begotten Son of God, we worship You. Let Your glory fill the whole world.",
+          "is_response": false,
+          "speaker": "all"
+        },
+        {
+          "verse_num": 3,
+          "text_ml": "ഹാലേലൂയ്യ, ഹാലേലൂയ്യ. ദൈവത്തിന്റെ നാമം വാഴ്ത്തപ്പെടട്ടെ. എന്നേക്കും. ആമ്മേൻ.",
+          "text_en": "Hallelujah, Hallelujah. Blessed be the name of God, forever. Amen.",
+          "is_response": true,
+          "speaker": "congregation"
+        }
+      ]
+    },
+    {
+      "id": "morning_prayer_s7",
+      "sort_order": 7,
+      "title_ml": "അടിവരി പ്രാർത്ഥന",
+      "title_en": "Closing Benediction",
+      "category_label": "Closing",
+      "verses": [
+        {
+          "verse_num": 1,
+          "text_ml": "മശിഹാ നാഥാ, ഞങ്ങളുടെ പ്രാർത്ഥന കേൾക്കേണമേ. ഈ ദിവസം ഞങ്ങൾക്ക് ആശിർവാദം നൽകേണമേ.",
+          "text_en": "O Christ our Lord, hear our prayer. Bless us this day.",
+          "is_response": false,
+          "speaker": "priest"
+        },
+        {
+          "verse_num": 2,
+          "text_ml": "ഞങ്ങളുടെ ഭവനങ്ങളെയും കുടുംബങ്ങളെയും അങ്ങേ സംരക്ഷണയിൽ കാത്തുരക്ഷിക്കേണമേ.",
+          "text_en": "Keep our homes and families under Your protection.",
+          "is_response": false,
+          "speaker": "priest"
+        },
+        {
+          "verse_num": 3,
+          "text_ml": "പരിശുദ്ധ ത്രിത്വത്തിന്റെ നാമത്തിൽ, ഇപ്പോഴും എപ്പോഴും എന്നേക്കും. ആമ്മേൻ.",
+          "text_en": "In the name of the Holy Trinity, now and forever and ever. Amen.",
+          "is_response": true,
+          "speaker": "all"
+        }
+      ]
+    }
+  ]
+}

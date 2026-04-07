@@ -1,0 +1,50 @@
+{
+  "id": "baptism",
+  "title_ml": "ഉഴിയൽ ശീലോ",
+  "title_en": "Baptism Service",
+  "description_ml": "മാമ്മോദീസ ക്രമം — ഉഴിയൽ ശീലോ",
+  "sections": [
+    {
+      "id": "baptism_s1",
+      "sort_order": 1,
+      "title_ml": "ജലാശീർവ്വാദം",
+      "title_en": "Blessing of Water",
+      "category_label": "Preparation",
+      "verses": [
+        {
+          "verse_num": 1,
+          "text_ml": "സർവ്വശക്തനായ ദൈവമേ, ഈ ജലത്തെ അങ്ങേ ആത്മാവിനാൽ വിശുദ്ധീകരിക്കേണമേ.",
+          "is_response": false,
+          "speaker": "priest"
+        },
+        {
+          "verse_num": 2,
+          "text_ml": "ആമ്മേൻ. കർത്താവേ, ഈ ജലം അങ്ങേ കൃപയാൽ പുണ്യമാക്കേണമേ.",
+          "is_response": true,
+          "speaker": "congregation"
+        }
+      ]
+    },
+    {
+      "id": "baptism_s2",
+      "sort_order": 2,
+      "title_ml": "മാമ്മോദീസ ക്രമം",
+      "title_en": "Rite of Baptism",
+      "category_label": "Sacrament",
+      "verses": [
+        {
+          "verse_num": 1,
+          "text_ml": "പിതാവിന്റെയും പുത്രന്റെയും പരിശുദ്ധാത്മാവിന്റെയും നാമത്തിൽ ഞാൻ നിന്നെ സ്നാനം കഴിപ്പിക്കുന്നു.",
+          "is_response": false,
+          "speaker": "priest"
+        },
+        {
+          "verse_num": 2,
+          "text_ml": "ആമ്മേൻ, ആമ്മേൻ, ആമ്മേൻ.",
+          "is_response": true,
+          "speaker": "congregation"
+        }
+      ]
+    }
+  ]
+}

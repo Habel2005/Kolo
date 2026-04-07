@@ -1,0 +1,44 @@
+{
+  "id": "funeral_service",
+  "title_ml": "കമ്പ്യൂന്ത്",
+  "title_en": "Funeral Service",
+  "description_ml": "ശവസംസ്ക്കാര ക്രമം — കമ്പ്യൂന്ത്",
+  "sections": [
+    {
+      "id": "funeral_s1",
+      "sort_order": 1,
+      "title_ml": "വിലാപ ഗീതം",
+      "title_en": "Lament Hymn",
+      "category_label": "Opening",
+      "verses": [
+        {
+          "verse_num": 1,
+          "text_ml": "കർത്താവേ, അങ്ങേ സന്നിധിയിൽ ഞങ്ങൾ ഈ ശരീരം സമർപ്പിക്കുന്നു. ഈ ആത്മാവിന് നിത്യവിശ്രമം നൽകേണമേ.",
+          "is_response": false,
+          "speaker": "priest"
+        },
+        {
+          "verse_num": 2,
+          "text_ml": "കർത്താവേ, കൃപ ചെയ്യേണമേ. ഈ ആത്മാവിന് സമാധാനം നൽകേണമേ.",
+          "is_response": true,
+          "speaker": "congregation"
+        }
+      ]
+    },
+    {
+      "id": "funeral_s2",
+      "sort_order": 2,
+      "title_ml": "ഭൗതിക ശുശ്രൂഷ",
+      "title_en": "Burial Rite",
+      "category_label": "Service",
+      "verses": [
+        {
+          "verse_num": 1,
+          "text_ml": "മണ്ണിൽ നിന്ന് നീ എടുക്കപ്പെട്ടു. മണ്ണിലേക്ക് നീ മടങ്ങുന്നു. പുനരുത്ഥാന നാളിൽ കർത്താവ് നിന്നെ ഉയിർപ്പിക്കും.",
+          "is_response": false,
+          "speaker": "priest"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "books": [
+    {
+      "id": "sandhya_pradhana",
+      "title_ml": "സന്ധ്യാ പ്രാർത്ഥന - നിത്യപ്രാത്ഥനക്രമം",
+      "title_en": "Evening - Daily Prayer",
+      "subtitle": "NithyaPradhana",
+      "category": "daily_office",
+      "color_hex": "#1B2A47",
+      "symbol": "☾",
+      "section_count": 8,
+      "is_daily": true,
+      "sort_order": 1,
+      "file": "nithya_pradhana.json"
+    },
+    {
+      "id": "holy_qurbana",
+      "title_ml": "വിശുദ്ധ കുര്‍ബാനക്രമം",
+      "title_en": "Order of the Holy Qurbana",
+      "subtitle": "Qurbana",
+      "category": "liturgical",
+      "color_hex": "#185FA5",
+      "symbol": "✦",
+      "section_count": 12,
+      "is_daily": false,
+      "sort_order": 2,
+      "file": "qurbana.json"
+    },
+    {
+      "id": "valiya_nombu_prayers",
+      "title_ml": "വലിയ നോമ്പിന്റെ നമസ്കാര ക്രമം",
+      "title_en": "Great Lent Prayers",
+      "subtitle": "Valiya Nombu",
+      "category": "seasonal",
+      "color_hex": "#4A1C40",
+      "symbol": "☦",
+      "section_count": 14,
+      "is_daily": false,
+      "sort_order": 3,
+      "file": "valiya_nombu.json"
+    }
+  ]
+}
