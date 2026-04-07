@@ -52,6 +52,7 @@ venv/
 # Firebase Admin SDK and secret scripts
 kolo-154ae-firebase-adminsdk-fbsvc-77da6a5872.json
 upload_to_firestore.py
+app/google-services.json
 
 # Google Services (Uncomment if you want to keep it private)
 # google-services.json
