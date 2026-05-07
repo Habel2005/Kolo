@@ -1,7 +1,7 @@
 # ☦ KOLO (Prayer Companion)
 ### *Liturgical companion for the Malankara Jacobite Syrian Church*
 
-`Kolo` is a sophisticated, high-fidelity Android application dedicated to the liturgical traditions of the Malankara Jacobite Syrian Church. It provides a beautiful, distraction-free environment for prayers, the Holy Qurbana, and seasonal liturgical offices, combining ancient faith with modern high-premium design.
+`Kolo` is a sophisticated, high-fidelity Android application dedicated to the liturgical traditions of the Malankara Jacobite Syrian Church. It provides a beautiful, distraction-free environment for prayers, the Holy Qurbana, and seasonal-liturgical offices, combining ancient faith with modern high-premium design.
 
 ---
 
